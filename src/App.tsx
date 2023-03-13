@@ -27,7 +27,7 @@ function App() {
           </h2>
           <div className="flex flex-col md:gap-4 gap-3">
             <div className="bg-red bg-opacity-5 flex justify-around items-center rounded-xl px-2 py-3">
-              <img src="/src/assets/icon-reaction.svg" alt="icon" />
+              <img src="/assets/icon-reaction.svg" alt="icon" />
               <h3 className="text-red md:text-body text-base">Reaction</h3>
               <h3 className="text-bold font-bold text-dark-navy">
                 <strong className="opacity-100">80</strong>
@@ -35,7 +35,7 @@ function App() {
               </h3>
             </div>
             <div className="bg-yellow bg-opacity-5 flex justify-around items-center rounded-xl px-2 py-3">
-              <img src="/src/assets/icon-memory.svg" alt="icon" />
+              <img src="/assets/icon-memory.svg" alt="icon" />
               <h3 className="text-yellow md:text-body text-base">Memory</h3>
               <h3 className="text-bold font-bold text-dark-navy">
                 <strong className="opacity-100">92</strong>
@@ -43,7 +43,7 @@ function App() {
               </h3>
             </div>
             <div className="bg-green bg-opacity-5 flex justify-around items-center rounded-xl px-2 py-3">
-              <img src="/src/assets/icon-verbal.svg" alt="icon" />
+              <img src="/assets/icon-verbal.svg" alt="icon" />
               <h3 className="text-green md:text-body text-base">Verbal</h3>
               <h3 className="text-bold font-bold text-dark-navy">
                 <strong className="opacity-100">61</strong>
@@ -51,7 +51,7 @@ function App() {
               </h3>
             </div>
             <div className="bg-blue bg-opacity-5 flex justify-around items-center rounded-xl px-2 py-3">
-              <img src="/src/assets/icon-visual.svg" alt="icon" />
+              <img src="/assets/icon-visual.svg" alt="icon" />
               <h3 className="text-blue md:text-body text-base">Visual</h3>
               <h3 className="text-bold font-bold text-dark-navy">
                 <strong className="opacity-100">73</strong>
